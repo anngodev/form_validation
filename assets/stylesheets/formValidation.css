@@ -29,6 +29,18 @@ label {
 	margin-left: 170px;
 }
 
+#errorMessage {
+	color: red;
+	font-size: 90% !important;
+}
+
+#successMessage {
+	color: green;
+	font-size: 90% !important;
+	display: none;
+	margin-bottom: 20px;
+}
+
 .form-element {
 	margin-bottom: 10px;
 }
