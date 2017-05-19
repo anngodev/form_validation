@@ -3,3 +3,9 @@
 	height: 150px; 
 	padding: 0.5em; 
 }
+
+#draggable3 {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+}
