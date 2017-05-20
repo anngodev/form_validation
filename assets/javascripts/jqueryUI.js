@@ -20,3 +20,6 @@ $("#resizable").resizable({
 	});
 
 $("#accordion").accordion();
+
+$("#sortable").sortable();
+$("#sortable").disableSelection();
