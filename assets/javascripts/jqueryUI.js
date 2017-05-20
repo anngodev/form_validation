@@ -11,3 +11,11 @@ $("#resizable").resizable({
 
 });
 	$("#also").resizable();
+
+	$("#little-square").draggable();
+	$("#big-square").droppable({
+		drop: function(event, ui) {
+			alert("dropped!");
+		}
+	});
+

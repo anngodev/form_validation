@@ -21,3 +21,16 @@
 	height: 200px;
 	border: 1px solid blue;
 }
+
+#big-square {
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+}
+
+#little-square {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+
+}
