@@ -19,3 +19,4 @@ $("#resizable").resizable({
 		}
 	});
 
+$("#accordion").accordion();
